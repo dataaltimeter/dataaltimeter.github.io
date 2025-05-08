@@ -1,2 +1,2 @@
-# dataaltimeter.githib.io
+# dataaltimeter.github.io
 Portfolio
